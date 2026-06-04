@@ -1,4 +1,4 @@
-FlaFlask
+Flask
 werkzeug
 mysql-connector-python
 pytz
